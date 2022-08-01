@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Devops TrainingTech Releases Nexus Repository</name>
-	      <url>http://44.204.38.237:8081/repository/amzon-repo/</url>
+	      <url>http://52.90.12.159:8081/repository/amzon-repo/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Devops TrainingTech Snapshot Nexus Repository </name>
-	      <url>http://44.204.38.237:8081/repository/jenkisn-snapshot/</url>
+	      <url>http://52.90.12.159:8081/repository/jenkisn-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
