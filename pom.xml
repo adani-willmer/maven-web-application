@@ -98,7 +98,7 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Devops TrainingTech Releases Nexus Repository</name>
-	      <url>http://52.90.12.159:8081/repository/amzon-repo/</url>
+	      <url>http://18.206.255.207:8081/repository/amazon-releaserepo/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
