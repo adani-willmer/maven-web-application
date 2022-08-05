@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Devops TrainingTech Releases Nexus Repository</name>
-	      <url>http://44.203.202.240:8081/repository/amazon-releaserepo/</url>
+	      <url>http://18.207.227.100:8081/repository/amazon-releaserepo/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Devops TrainingTech Snapshot Nexus Repository </name>
-	      <url>http://44.203.202.240:8081/repository/wallmart-shapshot/</url>
+	      <url>http://18.207.227.100:8081/repository/wallmart-shapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
