@@ -104,7 +104,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Devops TrainingTech Snapshot Nexus Repository </name>
-	      <url>http://54.210.109.171:8081/repository/wallmart-shapshot/</url>
+	      <url>http://54.210.109.171:8081/repository/amzon-shapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
