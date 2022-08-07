@@ -24,7 +24,7 @@ stages{
 	
 	}
   }
-  
+  // This is build stage
   stage('Build'){
   steps{
   sh  "mvn clean package"
